@@ -1,0 +1,16 @@
+[History]
+B0=RealSysTray/OnTop/PutOnTop
+B1=RealSysTray/OnTop/TakeOffTop
+B2=RealSysTray/OnTop
+B3=RealSysTray/frmMain/mnuOnTop_Click
+B4=RealSysTray/frmMain/mnuTray_Click
+B5=RealSysTray/frmMain/mnuExit_Click
+B6=RealSysTray/frmMain/mnuNotOnTop_Click
+B7=RealSysTray/frmMain
+B8=RealSysTray/frmMain/mnuRestore_Click
+B9=RealSysTray/SysTray
+B10=RealSysTray/frmMain/SysTrayMouseEventHandler
+B11=RealSysTray/SysTray/AddIconToTray
+B12=RealSysTray/SysTray/WindowProc
+B13=RealSysTray/SysTray/Hook
+B14=RealSysTray/SysTray/Unhook
